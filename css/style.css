@@ -1,0 +1,66 @@
+
+
+body{
+
+}
+
+
+
+.mydiv{
+
+}
+
+.mycontainer{
+
+}
+
+.mynav{
+
+}
+
+.navbar-brand{
+   font-size: 30px; 
+   font-weight: 600;
+}
+
+.mylink{
+margin-left: 20px;
+color: black;
+}
+
+.myspan{
+font-size: 16px;
+color: #ff1744;
+font-weight: 500;
+margin-bottom: 15px;
+margin-left: 580px;
+text-transform: uppercase;
+
+}
+
+.myschreiben{
+    font-size: 55px;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.mypara{
+    font-size: 16px;
+    margin-top: 0;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 28px;
+
+}
+
+.mybtn{
+    font-size: 15px;
+color: #ffffff;
+background-color: #ff1744;
+padding: 12px 30px;
+margin-top: 20px;
+text-decoration: none;
+margin-left: 570px;
+}
