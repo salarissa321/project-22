@@ -64,3 +64,81 @@ margin-top: 20px;
 text-decoration: none;
 margin-left: 570px;
 }
+
+.mytitel{
+    font-size: 16px;
+    color: #ff1744;
+    margin-bottom: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.mysubtitel{
+    font-size: 40px;
+    color: #222;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 0;
+    line-height: 1.2;
+}
+
+.myparagraf{
+    font-size: 15px;
+    color: #505050;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.myicon1{
+    font-size: 38px;
+    color: #ff1744;
+    background-color: #fff3f3;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    line-height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 180px;
+}
+
+.card-titel{
+    font-size: 25px;
+    color: #222;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.phrase{
+    font-size: 18px;
+    line-height: 28px;
+    color: #505050;
+    margin: 0;
+}
+
+
+.myicon2{
+    font-size: 38px;
+    color: #ff1744;
+    background-color: #fff3f3;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    line-height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 180px;
+}
+
+.myicon3{
+    font-size: 38px;
+    color: #ff1744;
+    background-color: #fff3f3;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    line-height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 180px;   
+}
