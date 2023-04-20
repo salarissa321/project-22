@@ -259,3 +259,37 @@ margin-left: 190px;
     font-family: var(--bs-font-sans-serif);
     
 }
+
+.card{
+    margin-left: 70px;
+}
+
+
+.card-img{
+    width: 100%;
+border-radius: 5px;
+}
+
+.card-text{
+    font-size: 14px;
+color: #59687f;
+margin: 0;
+font-weight: 400;
+font-family: 'Rubik', sans-serif;
+line-height: 26px;
+}
+
+.btn-card{
+    text-align: center;
+    padding: 10px 50px;
+    background-color: transparent;
+    color: #ff1744;
+    text-decoration: none;
+    border: 1px solid #ff1744;
+    font-size: 15px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    display: inline-block;
+    margin: 15px 0;
+    margin-left: 30px;
+}
